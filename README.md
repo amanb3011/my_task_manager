@@ -1,7 +1,5 @@
 # Task-Manager
-It is a basic TO-DO list web app made using NodeJS, ExpressJs, and MongoDB. You can add and delete tasks from this. Multiple deletions are also possible
-
-<h2> Live Preview : http://saumya-todo.herokuapp.com
+This is a simple web application built using Node.js, Express.js, and MongoDB. It allows users to create a to-do list, where tasks can be added and removed. The app supports both individual task deletion and the ability to delete multiple tasks at once.
 
 # Instructions
 
@@ -17,7 +15,3 @@ It is a basic TO-DO list web app made using NodeJS, ExpressJs, and MongoDB. You 
 2. Deleting a Task. (Delete multiple tasks at once)
 3. All the tasks are saved to the database (MongoDB, Mongoose is used for databases)
 4. Dynamic background from Vanta JS
-
-# Screenshots
-<img src="assests/images/ss1.png">
-<img src="assests/images/screenshot2.png">
